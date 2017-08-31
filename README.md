@@ -14,9 +14,6 @@ Aimed at having a minum number of dependencies.
 ## Motivation
 The motivation was simply to test Rubys networking functionality, but also to assist in segmentation testing.
 
-## Installation
-
-
 ## Example
 Standard scan against single a /29 with verbose output on:
 ```
